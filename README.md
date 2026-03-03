@@ -18,8 +18,8 @@ A fully functional advanced **Command-Line Railway Booking System** built entire
 ## 🚀 Features
 
 ### 👤 User Management
-- Sign Up and Login with **encrypted passwords**
-- Email-based unique user identity
+- Signup and Login with **encrypted passwords**
+- Email based unique user identity
 - Tracks **ticket history** for each user
 
 ### 🚆 Train System
